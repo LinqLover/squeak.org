@@ -15,3 +15,9 @@ Brief description about my project goes here.
 ```
 
 The logo should have the size of 200x200 pixels. The description should be in English and consist of about 50 words or less. Please choose a distinctive name for the files (i.e. markdown and logo). Double-check with the [existing projects](_projects).
+
+## Building
+
+- `rbenv install 2.6.10`
+- `eval "$(rbenv init -)"`
+STEHENGEBLIEBEN: complete installation and build, document how. inspect results, probably shorten some texts. shrink images and fit them into square if necessary. ask tom for review.
