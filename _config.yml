@@ -96,7 +96,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap  # Should be at the end of the list
 
-include: [_pages]
+include: [_pages, ".well-known"]
 
 # Exclude vendor dir which Travis uses to bundle all gems on its build servers
 exclude: [vendor, README.md, _research/references.bib, Gemfile, Rakefile]

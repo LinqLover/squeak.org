@@ -1,0 +1,5 @@
+Contact: mailto:board@squeak.org
+Expires: 2031-05-17T00:00:00Z
+Preferred-Languages: en
+Policy: https://bugs.squeak.org/
+Canonical: https://squeak.org/.well-known/security.txt
